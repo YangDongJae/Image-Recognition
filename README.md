@@ -4,6 +4,7 @@ This repository provides a complete end-to-end image classification and retrieva
 
 Place the Caltech20 dataset in the following directory structure:
 
+```
 Caltech20/
   ├── class1/
   │     ├── img1.jpg
@@ -11,6 +12,7 @@ Caltech20/
   ├── class2/
         ├── img1.jpg
         ├── img2.jpg
+```
 
 Requirements
 
